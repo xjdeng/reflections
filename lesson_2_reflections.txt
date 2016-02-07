@@ -1,0 +1,8 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: Git now knows there's a new repository created so you can create commits to it in the future.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area is like a set of instructions being drafted of the next change that'll be made to the repository.  It involves some or all of the files in the working directory.
+
