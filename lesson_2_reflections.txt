@@ -22,3 +22,8 @@ Q: What is the result of merging two branches together? Why do we represent it i
 
 A: They let you combine two different sets of changes and improvements into one better program. We represent them in the diagram to make it easier to visualize.
 
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Pros - It can save time if you don't have any conflicts and can show you where you might have a conflict.
+Cons - It's a bit messy if your merge isn't successful.
+
