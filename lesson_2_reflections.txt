@@ -6,3 +6,12 @@ Q: How is the staging area different from the working directory and the reposito
 
 A: The staging area is like a set of instructions being drafted of the next change that'll be made to the repository.  It involves some or all of the files in the working directory.
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: Use the git status command to preview the changes that will be made.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: It would help when you want to test out new features in your program. Branches help organize your program when one version is going off in a different direction than another.
+
+
