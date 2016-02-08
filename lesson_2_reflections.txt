@@ -14,4 +14,7 @@ Q: What are some situations when branches would be helpful in keeping your histo
 
 A: It would help when you want to test out new features in your program. Branches help organize your program when one version is going off in a different direction than another.
 
+Q: How do the diagrams help you visualize the branch structure?
+
+A: They help you logically see the evolution of your program as well as which branches are reachable.
 
