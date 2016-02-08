@@ -18,3 +18,7 @@ Q: How do the diagrams help you visualize the branch structure?
 
 A: They help you logically see the evolution of your program as well as which branches are reachable.
 
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: They let you combine two different sets of changes and improvements into one better program. We represent them in the diagram to make it easier to visualize.
+
