@@ -3,6 +3,7 @@ local?
 
 A: 1) When you want to be able to access your reflections from anywhere with an Internet connection.
 2) When you don't want to lose it all if your hard drive crashes.
+3) When you want to show your repository to others.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
