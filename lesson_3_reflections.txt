@@ -10,10 +10,13 @@ automatically stay up-to-date with your remote repository?
 
 A: So you can make sure you won't lose any changes you made locally by controlling when you want to sync and checking if it's safe to do so first.
 
-Describe the differences between forks, clones, and branches.  When would you
+
+Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+A: Forks allow you to take someone else's project, copy it to your Github, and continue development of it as your own while giving the original author credit.
+Clones are just copies of another's Github repository on your Github (while giving the original credit.)
+Branches are just a different development path that your own project might take.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
