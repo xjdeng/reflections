@@ -18,10 +18,10 @@ A: Forks allow you to take someone else's project, copy it to your Github, and c
 Clones are just copies of another's Github repository on your Github (while giving the original credit.)
 Branches are just a different development path that your own project might take.
 
-What is the benefit of having a copy of the last known state of the remote
+Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+A: That way, you can work on the project locally without having to access the Internet and it also makes it less prone to conflicts in the future.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
